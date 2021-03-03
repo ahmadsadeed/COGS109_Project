@@ -6,6 +6,7 @@ Source: https://archive.ics.uci.edu/ml/datasets/Wholesale+customers#
 Abstract: The data set refers to clients of a wholesale distributor. It includes the annual spending in monetary units (m.u.) on diverse product categories.
 
 Number of Instances: 440
+
 Number of Attributes: 8
 
 Attribute Information:
@@ -18,23 +19,37 @@ Attribute Information:
 6) DELICATESSEN: annual spending (m.u.)on and delicatessen products (Continuous);
 7) CHANNEL: customersâ€™ Channel - Horeca (Hotel/Restaurant/CafÃ©) or Retail channel (Nominal)
 8) REGION: customersâ€™ Region â€“ Lisnon, Oporto or Other (Nominal)
+
 Descriptive Statistics:
 
 (Minimum, Maximum, Mean, Std. Deviation)
+
 FRESH ( 3, 112151, 12000.30, 12647.329)
+
 MILK (55, 73498, 5796.27, 7380.377)
+
 GROCERY (3, 92780, 7951.28, 9503.163)
 FROZEN (25, 60869, 3071.93, 4854.673)
+
 DETERGENTS_PAPER (3, 40827, 2881.49, 4767.854)
+
 DELICATESSEN (3, 47943, 1524.87, 2820.106)
 
+
 REGION Frequency
+
 Lisbon 77
+
 Oporto 47
+
 Other Region 316
+
 Total 440
 
 CHANNEL Frequency
+
 Horeca 298
+
 Retail 142
+
 Total 440 
